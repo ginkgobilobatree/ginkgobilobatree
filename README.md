@@ -14,8 +14,9 @@
 
                       ... 💬 i often talk to my wife about what to achieve with 'programming'
                                      ... 🤔 but there are no results yet ...
-
-
+                  
+                  
+                  ... 😄 having fun learning css, html, js ... looking forward to learning more! ...
 
                                                📫 How to reach me:
                                              gino.massalski@gmail.com
