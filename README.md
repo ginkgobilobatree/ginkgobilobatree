@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am Gino, living in Leipzig, a webDev in dev, musical and bouldering.
+### I am Gino, living in Leipzig and a webDev in dev.
 
                                                        ~   ~
                                                    { (✨) (✨) }                                           
