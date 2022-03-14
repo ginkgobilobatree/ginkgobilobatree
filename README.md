@@ -18,6 +18,6 @@
                                              gino.massalski@gmail.com
                                                twitter: @Ginkgo_NaN
                                                youtube: Mino Gassa
-                     Germany, Saxony, Leipzig
+                                             Germany, Saxony, Leipzig
 <!-- 😄 Pronouns: ...
 ⚡ -->
